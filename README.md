@@ -30,11 +30,12 @@ A curated list of awesome crop simulation models, frameworks, libraries and soft
   - [pyDSSAT](https://github.com/XiaogangHe/pyDSSAT) - Python Interface for Crop Model DSSAT.
   - [PCSE](https://github.com/ajwdewit/pcse) - Python Crop Simulation Environment (PCSE/WOFOST).
   - [AquaCrop](https://github.com/thomasdkelly/aquacrop) - AquaCrop-OSPy: Python implementation of AquaCrop-OS.
+  - [ProSail](https://github.com/jgomezdans/prosail) - PROSAIL combines the leaf optical properties model PROSPECT with the turbid medium canopy radiative transfer model SAIL.
 
 ## R
   - [AquaCrop](https://github.com/jrodriguez88/aquacrop-R) - R Tools for crop simulations with Aquacrop V6. 
   - [DSSAT-R](https://github.com/Jeikosd/DSSAT-R) - R Interface for Crop Model DSSAT.
   - [Apsim](https://github.com/femiguez/apsimx) - R package for APSIM-X.
-
+  - [epicrop](https://github.com/adamhsparks/epicrop) - Simulation Modelling of Crop Diseases Using a Susceptible-Exposed-Infectious-Removed (SEIR) Model.
 ## Organizations
   - [AgMIP](https://github.com/agmip) - Agricultural Model Intercomparison and Improvement Project
