@@ -36,3 +36,5 @@ A curated list of awesome crop simulation models, frameworks, libraries and soft
   - [DSSAT-R](https://github.com/Jeikosd/DSSAT-R) - R Interface for Crop Model DSSAT.
   - [Apsim](https://github.com/femiguez/apsimx) - R package for APSIM-X.
 
+## Organizations
+  - [AgMIP](https://github.com/agmip) - Agricultural Model Intercomparison and Improvement Project
