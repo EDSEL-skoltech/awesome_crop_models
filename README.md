@@ -39,3 +39,6 @@ ________
   - [epicrop](https://github.com/adamhsparks/epicrop) - Simulation Modelling of Crop Diseases Using a Susceptible-Exposed-Infectious-Removed (SEIR) Model.
 ## Organizations
   - [AgMIP](https://github.com/agmip) - Agricultural Model Intercomparison and Improvement Project
+  - [ISRIC](https://github.com/ISRICWorldSoil) - World Soil Information.
+## Soil Database
+  - [SoilGrids](https://github.com/ISRICWorldSoil/SoilGrids250m) - Global spatial predictions of soil properties and classes at 250 m resolution.
