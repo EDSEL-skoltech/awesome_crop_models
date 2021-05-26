@@ -12,7 +12,9 @@ A curated list of awesome crop simulation models, frameworks, libraries and soft
 
 - [Crop Simulation Models](#crop-simulation-models)
 - [Python](#python)
-- [R](#rtools)
+- [R](#R)
+- [Organizations](#organizations)
+- [Soil Database](#soil-database)
 ________
 
 ## Crop simulation models
@@ -25,6 +27,9 @@ ________
 - [Daisy-model](https://github.com/perabrahamsen/daisy-model) - Daisy crop model.
 - [AgroTool](https://github.com/DanilaEremenko/Agrotool) - AgroTool crop model.
 - [DNDC](https://www.dndc.sr.unh.edu/) - DNDC (i.e., DeNitrification-DeComposition) is a computer simulation model of carbon and nitrogen biogeochemistry in agro-ecosystems. 
+- [EPIC](https://epicapex.tamu.edu/epic/) - Environmental Policy Integrated Climate (EPIC) Model.
+- [CropSyst](http://modeling.bsyse.wsu.edu/CS_Suite/index.html) - CropSyst is a is a user-friendly, conceptually simple but sound multi-year multi-crop daily time step simulation model. 
+- [AquaCrop](http://www.fao.org/aquacrop/overview/whatisaquacrop/en/) - AquaCrop is a crop growth model developed by the Land and Water Division of FAO to address food security and to assess the effect of environment and management on crop production. 
 
 ## Python
   - [pyDSSAT](https://github.com/XiaogangHe/pyDSSAT) - Python Interface for Crop Model DSSAT.
