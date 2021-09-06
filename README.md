@@ -15,7 +15,7 @@ A curated list of awesome crop simulation models, frameworks, libraries and soft
 - [R](#R)
 - [Organizations](#organizations)
 - [Soil Database](#soil-database)
-________
+_______
 
 ## Crop simulation models
 
@@ -30,6 +30,7 @@ ________
 - [EPIC](https://epicapex.tamu.edu/epic/) - Environmental Policy Integrated Climate (EPIC) Model.
 - [CropSyst](http://modeling.bsyse.wsu.edu/CS_Suite/index.html) - CropSyst is a is a user-friendly, conceptually simple but sound multi-year multi-crop daily time step simulation model. 
 - [AquaCrop](http://www.fao.org/aquacrop/overview/whatisaquacrop/en/) - AquaCrop is a crop growth model developed by the Land and Water Division of FAO to address food security and to assess the effect of environment and management on crop production. 
+- [LPJmL](https://github.com/PIK-LPJmL/LPJmL) - The model LPJmL ("Lund-Potsdam-Jena managed Land") is designed to simulate vegetation composition and distribution as well as stocks and land-atmosphere exchange flows of carbon and water, for both natural and agricultural ecosystems. 
 
 ## Python
   - [pyDSSAT](https://github.com/XiaogangHe/pyDSSAT) - Python Interface for Crop Model DSSAT.
@@ -45,5 +46,7 @@ ________
 ## Organizations
   - [AgMIP](https://github.com/agmip) - Agricultural Model Intercomparison and Improvement Project
   - [ISRIC](https://github.com/ISRICWorldSoil) - World Soil Information.
+  - [Quantitative Plant](https://www.quantitative-plant.org/) -  Website presenting image analysis software tools and models for plants
+
 ## Soil Database
   - [SoilGrids](https://github.com/ISRICWorldSoil/SoilGrids250m) - Global spatial predictions of soil properties and classes at 250 m resolution.
