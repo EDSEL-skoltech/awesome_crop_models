@@ -38,6 +38,8 @@ _______
   - [AquaCrop](https://github.com/thomasdkelly/aquacrop) - AquaCrop-OSPy: Python implementation of AquaCrop-OS.
   - [ProSail](https://github.com/jgomezdans/prosail) - PROSAIL combines the leaf optical properties model PROSPECT with the turbid medium canopy radiative transfer model SAIL.
   - [EPIC](https://github.com/ritviksahajpal/EPIC) - Framework to create EPIC input files, run the model and extract outputs.
+  - [PyAEZ](https://github.com/gicait/PyAEZ) - Python package consisted of many algorithms related to Agro-ecological zoning (AEZ) framework. 
+
 ## R
   - [AquaCrop](https://github.com/jrodriguez88/aquacrop-R) - R Tools for crop simulations with Aquacrop V6. 
   - [DSSAT-R](https://github.com/Jeikosd/DSSAT-R) - R Interface for Crop Model DSSAT.
