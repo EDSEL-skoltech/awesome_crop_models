@@ -45,6 +45,7 @@ _______
   - [DSSAT-R](https://github.com/Jeikosd/DSSAT-R) - R Interface for Crop Model DSSAT.
   - [Apsim](https://github.com/femiguez/apsimx) - R package for APSIM-X.
   - [epicrop](https://github.com/adamhsparks/epicrop) - Simulation Modelling of Crop Diseases Using a Susceptible-Exposed-Infectious-Removed (SEIR) Model.
+  - [CropWatR](https://github.com/jacobteter/CropWatR) - Implementation of FAO 56 (similar to CropWat, but with expanded features) in R.
 ## Organizations
   - [AgMIP](https://github.com/agmip) - Agricultural Model Intercomparison and Improvement Project
   - [ISRIC](https://github.com/ISRICWorldSoil) - World Soil Information.
